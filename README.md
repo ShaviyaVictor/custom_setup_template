@@ -1,7 +1,7 @@
 # custom_setup_template
 My custom template for setting up my projects, including the folder structure as well as the basic html head structure and contents.
           
-<img src="###  add custom content  ###" width="600" height="350" alt="Add the project's screenshot...">             
+<img src="#" width="600" height="350" alt="Add the project's screenshot...">             
 
 ## Built With
 
@@ -16,9 +16,9 @@ My custom template for setting up my projects, including the folder structure as
 This project is licensed under the [Apache License 2.0](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
 
 ## Resources
-- [YouTube](###  add custom content  ###)          
-- [Image source](###  add custom content  ###)          
-- [Image Download Link](###  add custom content  ###)          
+- [YouTube](#)          
+- [Image source](#)          
+- [Image Download Link](#)          
 
 
 ## Acknowledgments
