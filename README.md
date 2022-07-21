@@ -1,5 +1,6 @@
 # custom_setup_template
-My custom template for setting up my projects, including the folder structure as well as the basic html head structure and contents.
+My custom template for setting up my projects, including the folder structure as well as the basic html head structure and contents.      
+**Change where necessary**
           
 <img src="#" width="600" height="350" alt="">             
 
@@ -19,6 +20,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/Shavi
 - [YouTube](#)          
 - [Image source](#)          
 - [Image Download Link](#)          
+- [StackOverflow](#)          
 
 
 ## Acknowledgments
@@ -31,6 +33,7 @@ This project is licensed under the [Apache License 2.0](https://github.com/Shavi
   - [BioLink](https://bio.link/shaviya)       
   - [LinkedIn](https://www.linkedin.com/in/ShaviyaVictor/)          
   - [Instagram](https://www.instagram.com/shaviyavictor/)        
+  - [Twitter](https://twitter.com/ShaviyaVictor)        
   
   
-**© Victor Shaviya**, Project Guide Template.
+**© Victor Shaviya**.
